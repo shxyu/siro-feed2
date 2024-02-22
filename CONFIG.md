@@ -39,6 +39,13 @@ siro-feed-etc
 - 'Cyber Girl Siro'
 - 'SIRO youtuber'
 - 'Siro Channel'
+- 電脳少女シロ
+- ガリベンガーV
+- 白爪草
+- シロ生放送
+- シロぐみ
+- シロ組
+- おほほい
 
 # denyList
 
