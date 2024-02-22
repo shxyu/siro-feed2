@@ -27,6 +27,18 @@ siro-feed-etc
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
 - siroart
+- SiroTalk
+- MySiro
+- VR_Siro
+- MySiro
+- SiroCos
+- SiroMimic
+- ApexSyrup
+- Siro chan
+- Sirogumi
+- Cyber Girl Siro
+- SIRO youtuber
+- Siro Channel
 
 # denyList
 
