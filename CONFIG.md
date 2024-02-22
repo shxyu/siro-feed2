@@ -35,7 +35,16 @@ siro-feed-etc
 - シロ生放送
 - シロぐみ
 - シロ組
-- 
+- vr_siro
+- mysiro
+- sirocos
+- siromimic
+- apexsyrup
+- siro chan
+- sirogumi
+- cyber girl siro
+- siro youtuber
+- siro channel
 
 # denyList
 
