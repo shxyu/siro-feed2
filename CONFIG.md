@@ -34,11 +34,11 @@ siro-feed-etc
 - SiroCos
 - SiroMimic
 - ApexSyrup
-- Siro chan
+- 'Siro chan'
 - Sirogumi
-- Cyber Girl Siro
-- SIRO youtuber
-- Siro Channel
+- 'Cyber Girl Siro'
+- 'SIRO youtuber'
+- 'Siro Channel'
 
 # denyList
 
