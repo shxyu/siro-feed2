@@ -41,7 +41,7 @@ siro-feed-etc
 >
 > Set to `false` if you have higher limits via a paid Cloudflare plan.
 
-safe
+true
 
 # avatar
 
