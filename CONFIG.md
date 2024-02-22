@@ -27,8 +27,15 @@ siro-feed-etc
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
 - 電脳少女シロ
+- Cyber Girl Siro
 - siroart
 - sirotalk
+- ガリベンガー
+- 白爪草
+- シロ生放送
+- シロぐみ
+- シロ組
+- 
 
 # denyList
 
