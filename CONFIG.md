@@ -36,7 +36,6 @@ siro-feed-etc
 - "SiroTalk"
 - "MySiro"
 - "おほほい"
-- "どっとライブ"
 - "VR_Siro"
 - "MySiro"
 - "SiroCos"
