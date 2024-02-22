@@ -33,19 +33,7 @@ siro-feed-etc
 - "シロぐみ"
 - "シロ組"
 - "SiroArt"
-- "SiroTalk"
-- "MySiro"
-- "おほほい"
-- "VR_Siro"
-- "MySiro"
-- "SiroCos"
-- "SiroMimic"
-- "ApexSyrup"
-- "Siro chan"
-- "Sirogumi"
-- "Cyber Girl Siro"
-- "SIRO youtuber"
-- "Siro Channel"
+
 
 # denyList
 
